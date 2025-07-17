@@ -1,0 +1,98 @@
+/* .footer-container { 
+  padding: 40px 20px;
+  background-color: #1b1c1d;
+  color: #fff;
+}
+
+.footer-column {
+  margin-bottom: 20px;
+}
+
+.footer-heading {
+  font-weight: 600;
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
+
+.footer-link {
+  color: #ccc;
+  font-size: 0.85rem;
+  margin-bottom: 6px;
+  display: block;
+  cursor: pointer;
+}
+
+.footer-link:hover {
+  color: #C084FC;
+}
+
+.footer-contact {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.footer-caption {
+  font-size: 0.75rem;
+  color: #aaa;
+  margin-top: 8px;
+  line-height: 1.6;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 0.8rem;
+  color: #888;
+/* } */
+
+
+.footer-container {
+  padding: 40px 20px;
+  background-color: #004d40; /* changed to dark teal */
+  color: #e0f2f1; /* lighter teal-ish text */
+}
+
+.footer-column {
+  margin-bottom: 20px;
+}
+
+.footer-heading {
+  font-weight: 600;
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+  color: #b2dfdb; /* lighter teal for headings */
+}
+
+.footer-link {
+  color: #80cbc4; /* teal-ish link color */
+  font-size: 0.85rem;
+  margin-bottom: 6px;
+  display: block;
+  cursor: pointer;
+}
+
+.footer-link:hover {
+  color: #26a69a; /* darker teal hover */
+}
+
+.footer-contact {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.footer-caption {
+  font-size: 0.75rem;
+  color: #a7ffeb; /* pale teal */
+  margin-top: 8px;
+  line-height: 1.6;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 0.8rem;
+  color: #4db6ac; /* medium teal */
+}
+
